@@ -1,3 +1,3 @@
 <h2 align="center"> Vanilla playground</h2>
 
-This repository is where I learn and experiment about many topics related with web development.
+In this repository is where I experiment with vanilla components to test out ideas and expand my expertise in CSS, HTML and JavaScript.
